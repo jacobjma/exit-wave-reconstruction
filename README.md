@@ -2,3 +2,5 @@
 Simple Python-based exit wave reconstruction of focal series.
 
 Requires [PyQSTEM](https://github.com/jacobjma/PyQSTEM)
+
+How to use: See tutorial.ipynb
